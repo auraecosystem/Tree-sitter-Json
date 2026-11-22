@@ -17,12 +17,10 @@
     "description": "JSON grammar for tree-sitter",
     "authors": [
       {
-        "name": "Max Brunsfeld",
-        "email": "maxbrunsfeld@gmail.com"
       }
     ],
     "links": {
-      "repository": "https://github.com/tree-sitter/tree-sitter-json"
+      "repository": "https://github.com/auraecosystem/tree-sitter-json"
     }
   },
   "bindings": {
